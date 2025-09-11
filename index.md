@@ -8,6 +8,6 @@ Berikut ini adalah koleksi yang dimiliki:
 1. .[laskar pelangi].(ebook/laskar pelangi.pdf) - Andrea Hirata, (2005)
 2. .[surat cinta].(ebook/surat cinta.pdf) - Pit Sansi, (2016)
 3. .[sebuah seni untuk bersikap bodo].(ebook/sebuah seni untuk bersikap bodo.pdf) - Mark Manson, (2016)
----
+4. .[laut bercerita].(ebook/laut bercerita.pdf) - Leila S.Chudori, (2017)
 
 *Powered by GitHub Pages*
