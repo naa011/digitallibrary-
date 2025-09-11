@@ -6,7 +6,7 @@ Berikut ini adalah koleksi yang dimiliki:
 ##Koleksi
 
 1. .[laskar pelangi].(ebook/laskar pelangi.pdf) - Andrea Hirata, (2005)
-2. Contoh buku lain
+2. .[surat cinta].(ebook/surat cinta.pdf) - Pit Sansi, (2016)
 
 ---
 
