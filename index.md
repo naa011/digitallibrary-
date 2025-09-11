@@ -11,4 +11,6 @@ Berikut ini adalah koleksi yang dimiliki:
 4. .[laut bercerita].(ebook/laut bercerita.pdf) - Leila S.Chudori, (2017)
 5. .[Reach Your Dreams].(ebook/Reach Your Dreams.pdf) - Wirda Mansur, (2016)
 6. .[saat engkau ingin berubah].(ebook/saat engkau ingin berubah.pdf) - Rahma Kusharjanti,(2020)
+7. .[The Girl who Fell Beneath t_ (Z-Library)].(ebook/The Girl who Fell Beneath t_ (Z-Library).pdf) - Axsie Oh, (2023)
+
 *Powered by GitHub Pages*
