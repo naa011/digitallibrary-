@@ -12,5 +12,6 @@ Berikut ini adalah koleksi yang dimiliki:
 5. .[Reach Your Dreams].(ebook/Reach Your Dreams.pdf) - Wirda Mansur, (2016)
 6. .[saat engkau ingin berubah].(ebook/saat engkau ingin berubah.pdf) - Rahma Kusharjanti,(2020)
 7. .[The Girl who Fell Beneath t_ (Z-Library)].(ebook/The Girl who Fell Beneath t_ (Z-Library).pdf) - Axsie Oh, (2023)
+8. .[The Girl Who Drank The Moon_ (Z-Library)].(ebook/The Girl Who Drank The Moon_ (Z-Library).pdf) - Kelly Barnhill, (2016)
 
 *Powered by GitHub Pages*
