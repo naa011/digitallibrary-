@@ -13,5 +13,6 @@ Berikut ini adalah koleksi yang dimiliki:
 6. .[saat engkau ingin berubah].(ebook/saat engkau ingin berubah.pdf) - Rahma Kusharjanti,(2020)
 7. .[The Girl who Fell Beneath t_ (Z-Library)].(ebook/The Girl who Fell Beneath t_ (Z-Library).pdf) - Axsie Oh, (2023)
 8. .[The Girl Who Drank The Moon_ (Z-Library)].(ebook/The Girl Who Drank The Moon_ (Z-Library).pdf) - Kelly Barnhill, (2016)
+9. .[Good Vibes Good Life Bahasa Indonesia].(ebook/Good Vibes Good Life Bahasa Indonesia.pdf) - Vex King, (2018)
 
 *Powered by GitHub Pages*
