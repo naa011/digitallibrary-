@@ -16,5 +16,6 @@ Berikut ini adalah koleksi yang dimiliki:
 9. [Good Vibes Good Life Bahasa Indonesia](ebook/Good Vibes Good Life Bahasa Indonesia.pdf) - Vex King (2018)
 10. [resum](ebook/resum.pdf) - Nabrila Rustina (2023)
 11. [Pramoedya Ananta Toer-Bumi Manusia](ebook/Pramoedya Ananta Toer-Bumi Manusia.pdf) - Pramoedya Ananta Toer(1980)
+    
  <a href="webti/halaman1.html"> Halaman 1 </a>
  *Powered by GitHub Pages*
