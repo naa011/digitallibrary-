@@ -10,4 +10,4 @@ ID,Title,Author,Year,Format,File
 9,Good Vibes Good Life Bahasa Indonesia,Vex King,2018,PDF,ebook/Good Vibes Good Life Bahasa Indonesia.pdf
 10,resum,Nabrila Rustina,2023,PDF,ebook/resum.pdf
 11,Pramoedya Ananta Toer-Bumi Manusia,Pramoedya Ananta Toer,1980,PDF,ebook/Pramoedya Ananta Toer-Bumi Manusia.pdf
-12,halaman1,nabrila,2025,html,webti/halaman1.html
+12,<a href="webti/halaman1.html"> Halaman 1 </a>
